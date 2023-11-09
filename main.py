@@ -4,7 +4,6 @@ import json
 from typing import List, Optional
 
 # Define data classes using Pydantic
-
 class Token(BaseModel):
     id: str
     text: str
@@ -54,7 +53,7 @@ def process_input(input_data: dict) -> Dict[str, Dict[str, Any]]:
             # initialising dictionary at first encounter with  key
             if not 'wordform_frequency' in lemma_info[lemma]:
                 lemma_info[lemma]['wordform_frequency'] = {}
-                
+
             # initialising dictionary at first encounter with  key
             if not wordform in lemma_info[lemma]['wordform_frequency']:
                 lemma_info[lemma]['wordform_frequency'][wordform] = 0
