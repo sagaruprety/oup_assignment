@@ -1,0 +1,1081 @@
+{
+  "2019": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Ord",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "2019": 2
+    }
+  },
+  "жыл": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Gen",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "жылы": 2,
+      "жылдың": 2
+    }
+  },
+  "27": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Ord",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "27": 2
+    }
+  },
+  "желтоқсан": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "желтоқсанда": 2
+    }
+  },
+  "президент": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "Президент": 2,
+      "президенті": 2
+    }
+  },
+  "\"": {
+    "pos": "PUNCT",
+    "inflection_info": null,
+    "total_frequency": 12,
+    "wordform_frequency": {
+      "\"": 12
+    }
+  },
+  "Қазақстан": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "Қазақстан": 4
+    }
+  },
+  "республика": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Республикасының": 2
+    }
+  },
+  "кейбір": {
+    "pos": "DET",
+    "inflection_info": "PronType=Tot",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "кейбір": 4
+    }
+  },
+  "заңнамалық": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "заңнамалық": 4
+    }
+  },
+  "акт": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Dat|Number=Plur",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "актілеріне": 2,
+      "актілерге": 2
+    }
+  },
+  "қылмыстық": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "қылмыстық": 4
+    }
+  },
+  ",": {
+    "pos": "PUNCT",
+    "inflection_info": null,
+    "total_frequency": 12,
+    "wordform_frequency": {
+      ",": 12
+    }
+  },
+  "іс": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "іс": 2
+    }
+  },
+  "жүр": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 3,
+    "wordform_frequency": {
+      "жүргізу": 3
+    }
+  },
+  "заңнама": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "заңнамасын": 2
+    }
+  },
+  "жетілдір": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "жетілдіру": 2
+    }
+  },
+  "және": {
+    "pos": "CCONJ",
+    "inflection_info": null,
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "және": 4
+    }
+  },
+  "жеке": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "жеке": 2
+    }
+  },
+  "адам": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Gen",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "адамның": 2
+    }
+  },
+  "құқық": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "құқықтарын": 2
+    }
+  },
+  "қорғау": {
+    "pos": "VERB",
+    "inflection_info": "Case=Acc|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "қорғауды": 2
+    }
+  },
+  "күшейт": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "күшейту": 2
+    }
+  },
+  "мәселе": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "мәселелері": 4
+    }
+  },
+  "бойынша": {
+    "pos": "ADP",
+    "inflection_info": null,
+    "total_frequency": 5,
+    "wordform_frequency": {
+      "бойынша": 5
+    }
+  },
+  "өзгеріс": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number=Plur",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "өзгерістер": 4
+    }
+  },
+  "мен": {
+    "pos": "CCONJ",
+    "inflection_info": null,
+    "total_frequency": 7,
+    "wordform_frequency": {
+      "мен": 7
+    }
+  },
+  "толықтыру": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number=Plur",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "толықтырулар": 4
+    }
+  },
+  "енгіз": {
+    "pos": "VERB",
+    "inflection_info": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+    "total_frequency": 5,
+    "wordform_frequency": {
+      "енгізу": 4,
+      "енгізілді": 1
+    }
+  },
+  "турал": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "туралы": 4
+    }
+  },
+  "заң": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Заңға": 1,
+      "Заңы": 1
+    }
+  },
+  "қол": {
+    "pos": "X",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "қол": 1
+    }
+  },
+  "қой": {
+    "pos": "VERB",
+    "inflection_info": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "қойды": 1
+    }
+  },
+  ".": {
+    "pos": "PUNCT",
+    "inflection_info": null,
+    "total_frequency": 8,
+    "wordform_frequency": {
+      ".": 8
+    }
+  },
+  "Кремль": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Кремль": 2
+    }
+  },
+  "өкіл": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 3,
+    "wordform_frequency": {
+      "өкілінің": 2,
+      "өкілі": 1
+    }
+  },
+  "айтыу": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "айтуынша": 2
+    }
+  },
+  "Беларусь": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Беларусь": 2
+    }
+  },
+  "Александр": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom|Gender=Masc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Александр": 1
+    }
+  },
+  "Лукашенко": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom|Gender=Masc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Лукашенко": 1
+    }
+  },
+  "Путин": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Dat",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Путинге": 1
+    }
+  },
+  "Минск": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Минск": 1
+    }
+  },
+  "Ресей": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Ресей": 1
+    }
+  },
+  "Украина": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Украина": 1
+    }
+  },
+  "ара": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "арасындағы": 1
+    }
+  },
+  "келіссөз": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "келіссөз": 1
+    }
+  },
+  "проце": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "процесі": 1
+    }
+  },
+  "үшін": {
+    "pos": "ADP",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "үшін": 1
+    }
+  },
+  "барлық": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "барлық": 1
+    }
+  },
+  "қажетті": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "қажетті": 1
+    }
+  },
+  "жағдай": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "жағдай": 1
+    }
+  },
+  "жаса": {
+    "pos": "VERB",
+    "inflection_info": "Case=Dat|VerbForm=Ger",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "жасауға": 1
+    }
+  },
+  "дайын": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "дайын": 1
+    }
+  },
+  "е": {
+    "pos": "AUX",
+    "inflection_info": "Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "екеніне": 1
+    }
+  },
+  "сендір": {
+    "pos": "VERB",
+    "inflection_info": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "сендірді": 1
+    }
+  },
+  "де": {
+    "pos": "VERB",
+    "inflection_info": "Aspect=Perf|VerbForm=Conv",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "деп": 1
+    }
+  },
+  "хабарла": {
+    "pos": "VERB",
+    "inflection_info": "Tense=Past|VerbForm=Fin",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "хабарлайды": 1
+    }
+  },
+  "ТАСС": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "ТАСС": 1
+    }
+  },
+  "биіктік": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Биіктігі": 2
+    }
+  },
+  "-": {
+    "pos": "PUNCT",
+    "inflection_info": null,
+    "total_frequency": 3,
+    "wordform_frequency": {
+      "-": 3
+    }
+  },
+  "130": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Card",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "130": 2
+    }
+  },
+  "метр": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "метр": 2
+    }
+  },
+  "ол": {
+    "pos": "PRON",
+    "inflection_info": "Case=Gen|Number=Sing|Person=3|PronType=Prs",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Оның": 1
+    }
+  },
+  "іш": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "ішінде": 1,
+      "ішінен": 1
+    }
+  },
+  "сол": {
+    "pos": "DET",
+    "inflection_info": "PronType=Dem",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "сол": 1
+    }
+  },
+  "жақ": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "жақтағы": 1
+    }
+  },
+  "мұнара": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "мұнара": 1
+    }
+  },
+  "лифт": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "лифт": 1
+    }
+  },
+  "арқылы": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "арқылы": 1
+    }
+  },
+  "жоғары": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "жоғары": 1
+    }
+  },
+  "көтер": {
+    "pos": "VERB",
+    "inflection_info": "Aspect=Perf|VerbForm=Conv",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "көтеріліп": 1
+    }
+  },
+  "қала": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "қаланы": 1
+    }
+  },
+  "биік": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Abl",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "биіктен": 1
+    }
+  },
+  "тамаша": {
+    "pos": "VERB",
+    "inflection_info": "Case=Dat|VerbForm=Ger",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "тамашалауға": 1
+    }
+  },
+  "бол": {
+    "pos": "AUX",
+    "inflection_info": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "болады": 1
+    }
+  },
+  "Атап": {
+    "pos": "X",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Атап": 2
+    }
+  },
+  "айт": {
+    "pos": "VERB",
+    "inflection_info": "Tense=Past|VerbForm=Part",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "айтқанда": 2
+    }
+  },
+  "картоп": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "картоп": 2
+    }
+  },
+  "қор": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "қоры": 2
+    }
+  },
+  "380": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Card",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "380": 2
+    }
+  },
+  "мың": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Card",
+    "total_frequency": 5,
+    "wordform_frequency": {
+      "мың": 5
+    }
+  },
+  "тоннан": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "тоннаны": 2
+    }
+  },
+  "құра": {
+    "pos": "VERB",
+    "inflection_info": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "құрайды": 2
+    }
+  },
+  "ерте": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "ерте": 2
+    }
+  },
+  "ег": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "егін": 2
+    }
+  },
+  "болжам": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "болжамы": 2
+    }
+  },
+  "170": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Card",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "170": 2
+    }
+  },
+  "тонна": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Abl",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "тоннадан": 2
+    }
+  },
+  "аса": {
+    "pos": "VERB",
+    "inflection_info": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "асады": 2
+    }
+  },
+  ";": {
+    "pos": "PUNCT",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      ";": 2
+    }
+  },
+  "32": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Card",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "32": 1
+    }
+  },
+  "тон": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "тонна": 1
+    }
+  },
+  "қырыққабат": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "қырыққабат": 1
+    }
+  },
+  "сақта": {
+    "pos": "VERB",
+    "inflection_info": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "сақталуда": 1
+    }
+  },
+  "бұл": {
+    "pos": "DET",
+    "inflection_info": "PronType=Dem",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Бұл": 2
+    }
+  },
+  "олқылық": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Gen",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "олқылықтың": 2
+    }
+  },
+  "орнын": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "орнын": 2
+    }
+  },
+  "толтыр": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "толтыру": 2
+    }
+  },
+  "мақсат": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "мақсатында": 2
+    }
+  },
+  "солтүстік": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Солтүстік": 2
+    }
+  },
+  "көлік": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "көлік": 2
+    }
+  },
+  "прокуратура": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "прокуратурасы": 2
+    }
+  },
+  "халықаралық": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Халықаралық": 2
+    }
+  },
+  "медиация": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "медиация": 2
+    }
+  },
+  "орталық": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "орталығы": 2
+    }
+  },
+  "РҚБ": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "РҚБ": 1
+    }
+  },
+  "СҚО": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "СҚО": 1
+    }
+  },
+  "алтын": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom|Gender=Masc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Алтын": 1
+    }
+  },
+  "би": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom|Gender=Masc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "би": 1
+    }
+  },
+  "Бесембаев": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Ins|Gender=Masc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "Бесембаевамен": 1
+    }
+  },
+  "меморанду": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Dat",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "меморандумға": 1
+    }
+  },
+  "отыр": {
+    "pos": "VERB",
+    "inflection_info": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "отырды": 1
+    }
+  },
+  "сонымен": {
+    "pos": "PRON",
+    "inflection_info": "Case=Ins|PronType=Dem",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "Сонымен": 2
+    }
+  },
+  "қатар": {
+    "pos": "ADP",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "қатар": 2
+    }
+  },
+  "2022": {
+    "pos": "NUM",
+    "inflection_info": "NumType=Ord",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "2022": 2
+    }
+  },
+  "қыркүйек": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "қыркүйегінен": 2
+    }
+  },
+  "баста": {
+    "pos": "VERB",
+    "inflection_info": "Aspect=Perf|VerbForm=Conv",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "бастап": 2
+    }
+  },
+  "сақтандыру": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "сақтандыру": 2
+    }
+  },
+  "нарық": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 4,
+    "wordform_frequency": {
+      "нарығын": 4
+    }
+  },
+  "бағалы": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "бағалы": 2
+    }
+  },
+  "қағаз": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number=Plur",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "қағаздар": 2
+    }
+  },
+  "ретте": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "реттеу": 2
+    }
+  },
+  "дамыт": {
+    "pos": "VERB",
+    "inflection_info": "Case=Nom|VerbForm=Ger",
+    "total_frequency": 2,
+    "wordform_frequency": {
+      "дамыту": 2
+    }
+  },
+  "ҚР": {
+    "pos": "PROPN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "ҚР": 1
+    }
+  },
+  "аяыс": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "аясында": 1
+    }
+  },
+  "өмірд": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Acc",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "өмірді": 1
+    }
+  },
+  "сақтандыр": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Gen",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "сақтандырудың": 1
+    }
+  },
+  "жаңа": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "жаңа": 1
+    }
+  },
+  "әлеуметтік": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "әлеуметтік": 1
+    }
+  },
+  "маңызды": {
+    "pos": "ADJ",
+    "inflection_info": null,
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "маңызды": 1
+    }
+  },
+  "өнім": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "өнімі": 1
+    }
+  },
+  "бірлес": {
+    "pos": "VERB",
+    "inflection_info": "Tense=Past|VerbForm=Part",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "бірлескен": 1
+    }
+  },
+  "зейнетақ": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "зейнетақы": 1
+    }
+  },
+  "аннуитет": {
+    "pos": "NOUN",
+    "inflection_info": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+    "total_frequency": 1,
+    "wordform_frequency": {
+      "аннуитеті": 1
+    }
+  }
+}
